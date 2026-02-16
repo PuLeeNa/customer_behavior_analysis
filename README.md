@@ -2,17 +2,6 @@
 
 A comprehensive data analytics project that analyzes customer shopping behavior using Python, SQL, and Power BI to derive actionable insights for business decision-making.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Analysis Components](#analysis-components)
-- [Key Insights](#key-insights)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## 🎯 Overview
 
 This project demonstrates end-to-end data analysis of customer shopping behavior, including:
@@ -149,18 +138,6 @@ jupyter notebook custmer_shopping_behaviour.ipynb
 1. Open `customer dashboard.pbix` in Power BI Desktop
 2. Update data source connection if needed
 3. Explore interactive visualizations
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
-
-## 📧 Contact
-
-For questions or feedback, please open an issue in this repository.
 
 ---
 
